@@ -15,4 +15,4 @@ As classes Lista, Pilha e Fila contêm os seguintes métodos:
 * Tamanho: Retorna quantos elementos a estrutura possui;
 * Mostrar Elemento: Mostra o valor de um elemento em uma determinada posição. No caso de Pilhas e Filas, esse método só pode apresentar o valor do dado que está no início da estrutura.
 
-![Lista](lista-encadeada/lista.png)
+![Lista](lista.png)
