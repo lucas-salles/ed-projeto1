@@ -1,4 +1,4 @@
-# Primeiro projeto da disciplina de Estruturas da Dados do Curso Superior de Tecnologia em Sistemas para Internet do IFPB
+# Primeiro projeto da disciplina de Estruturas de Dados do Curso Superior de Tecnologia em Sistemas para Internet do IFPB
 
 ## O objetivo deste projeto é implementar as principais estruturas de dados lineares: Listas, Pilhas e Filas em Python.
 
